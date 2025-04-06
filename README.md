@@ -1,1 +1,1 @@
-# car-black-box
+The concept of a Black Box is commonly associated with airplanes, where it serves a critical role in analyzing the root cause of a catastrophe. However, the use of a Black Box, also known as an Event Data Recorder (EDR) or Accident Data Recorder (ADR), can go well beyond post-accident analysis.
